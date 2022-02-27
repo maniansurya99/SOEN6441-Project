@@ -7,7 +7,7 @@ Warzone (Based on Risk Game) Implementation as part of the SOEN6441 - Advanced P
 - Madhuvanthi Hemanathan
 - Prathika Suvarna
 - Neona Pinto
-- Surya Manian
+- <a href="https://www.linkedin.com/in/surya-manian/"> Surya Manian </a>
 
 ## Instructor
 <a href="https://users.encs.concordia.ca/~paquet/wiki/index.php?title=Dr._Joey_Paquet_Home_Page">Dr. Joey Paquet </a>
